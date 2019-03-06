@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 drawborder() {
    # Draw top
    tput setf 6

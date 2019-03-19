@@ -1,12 +1,4 @@
 #!/bin/bash
-#
-# Centipede game
-#
-# v2.0
-#
-# Author: sol@subnetzero.org
-#
-# Functions
 
 drawborder() {
    # Draw top
@@ -214,9 +206,7 @@ Keys:
  D - RIGHT
  X - QUIT
 
-If characters do not display properly, consider changing
-SNAKECHAR, APPLECHAR and WALLCHAR variables in script.
-Characters supported depend upon your terminal setup.
+
 
 Press Return to continue
 "
